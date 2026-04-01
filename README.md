@@ -58,7 +58,7 @@ A dual-project focus on preparing messy data for production.
 ## 📫 Connect with me
 - **LinkedIn:** [Alam Ozuna](https://www.linkedin.com/in/alam-antonio-ozuna-silva-b4648029a/)
 - **Email:** [alam_ozuna@outlook.com](mailto:alam_ozuna@outlook.com)
-- **Portfolio Website:** [Visit my interactive web portfolio](https://github.com/alamozuna/Alam-Ozuna-s-Portfolio) (Update: Live link coming soon- **Portfolio Website:** [Visit my interactive web portfolio](https://alamozuna.github.io/)
+- **Portfolio Website:** [Visit my interactive web portfolio](https://alamozuna.github.io/)
 
 ---
 *© 2026 Alam Ozuna - The Quantified Lens*
