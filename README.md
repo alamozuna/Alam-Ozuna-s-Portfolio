@@ -1,28 +1,64 @@
-Data Analytics Portfolio
-Welcome to my data analytics portfolio. This repository contains a collection of projects that demonstrate my technical proficiency in data manipulation, visualization, and strategic business analysis. 
-My background combines a Magna Cum Laude degree in International Business with an ongoing MBA in Data Science and Artificial Intelligence, alongside hands-on professional experience in the finance sector. 
-The projects housed here reflect my ability to bridge complex data engineering with actionable, real-world business intelligence.
+# Alam Ozuna | Senior Data Analyst Portfolio 📈
 
-Global Bike Sales Demographic Analysis and Interactive Dashboard
-In this comprehensive data analysis project, I engineered an interactive business intelligence dashboard using advanced Excel functionalities to analyze a dataset of one thousand potential bicycle buyers. 
-The primary objective was to uncover key demographic drivers influencing purchase decisions and to provide actionable insights for targeted marketing campaigns.
+Welcome to my professional data analytics portfolio. I specialize in transforming raw datasets into **high-end narrative artifacts** designed for executive decision-making. My work focuses on precision, transparency, and actionable insights using a modern analytical stack.
 
-The technical execution involved meticulous data cleaning and the standardization of variables such as income, commute distance, and age brackets within dedicated working sheets. 
-I utilized complex pivot tables to aggregate these metrics, enabling a deep dive into customer segmentation and behavioral patterns. 
-The final deliverable successfully transformed raw demographic data into a dynamic visual format, allowing stakeholders to easily identify sales trends across various global regions.
+---
 
-Comprehensive Airbnb Market Analysis and Interactive Tableau Dashboard
-This project centers on a dynamic Tableau dashboard developed to analyze extensive Airbnb listing data. It visualizes key metrics such as pricing fluctuations, location profitability, and occupancy rates. 
-By utilizing advanced data visualization techniques, this analysis transforms complex property datasets into actionable market insights, specifically designed to aid strategic real estate investment and optimize property management decisions.
+## 🛠️ Tech Stack & Methodology
+- **Visualization:** Power BI, Tableau, Excel (Advanced)
+- **Data Engineering:** SQL (Cleaning & EDA), Python (Pandas)
+- **Framework:** Observation → Insight → Action (OIA)
 
-Data Professional Career Survey and Power BI Dashboard
-For this project, I designed an interactive Power BI dashboard analyzing survey data from data professionals worldwide. The visual reporting focuses on global salary trends, tool preferences, and job satisfaction metrics. 
-This body of work highlights my proficiency in data modeling and DAX manipulation, successfully transforming raw survey responses into dynamic, actionable career insights for the data industry.
+---
 
-Global Layoffs Data Cleaning and Standardization in SQL
-This phase of the layoffs project involved executing a comprehensive data cleaning process on a global layoffs dataset utilizing advanced SQL techniques. The queries heavily leverage Common Table Expressions, window functions, and complex self-joins. 
-Through this rigorous process, I successfully eliminated duplicates, standardized data formats, and populated missing values to transform raw information into a highly reliable database ready for exploratory analysis.
+## 📂 Featured Case Studies
 
-Global Layoffs Exploratory Data Analysis in SQL
-Following the data cleaning phase, I conducted an in-depth exploratory data analysis on the comprehensive dataset of global layoffs. This was achieved using advanced SQL aggregations and window functions to calculate rolling totals and time-series trends. 
-The project successfully uncovers critical macroeconomic insights by segmenting job losses across different industries, countries, and funding stages to thoroughly evaluate the broader impact of global economic shifts.
+### 1. Adventure Works Dashboard 🚲
+**Tools:** Excel (XLSM) | VLOOKUP | INDEX/MATCH | Time-Series Analysis | Data Visualization
+
+Ever wondered what $5.7M in revenue looks like when you break it down? This project dives into the AdventureWorks transactional dataset — over 3,000 records — to uncover revenue trends, profit margins, and unit performance across time. I built a dynamic Excel dashboard featuring monthly profit tracking, time-series visualizations, and KPI summaries, all powered by advanced formulas (nested IFs, INDEX/MATCH, VLOOKUP).
+- **Outcome:** A clear, interactive view of business health with a 43.5% profit margin story told through 8 custom charts.
+
+### 2. Amazon Sales Data Analysis 📦
+**Tools:** Excel (XLSX) | Data Cleaning | Exploratory Analysis | Dashboard Design
+
+This project follows the full data analyst workflow from start to finish. Starting with 5,000 raw transaction records spanning 6 years (2019–2024), I documented every step — from data cleaning and null handling to exploration and final dashboard delivery.
+- **Outcome:** Tracks nearly $1M+ in yearly sales across multiple regions. Features a dedicated cleaning log and exploration sheet for maximum transparency.
+
+### 3. Bikes Sales Dashboard 🚴
+**Tools:** Excel (XLSX) | Pivot Tables | Customer Segmentation | Demographic Analysis
+
+Who's buying bikes, and what do they have in common? Using a dataset of 1,000+ customer records, I segmented buyers by age group, gender, and income level.
+- **Outcome:** Analysis revealed that bike buyers earn $2–3K more on average than non-buyers. Built entirely in Excel with nested IF formulas and pivot tables for real-time aggregation.
+
+### 4. Airbnb Market Analysis 🏠
+**Tools:** Tableau | Calculated Fields | Interactive Dashboard | Geospatial Analysis
+
+A deep dive into the Airbnb rental market featuring 5 analytical worksheets feeding into one cohesive interactive dashboard, backed by a 9.4 MB embedded dataset.
+- **Outcome:** 31 custom calculated measures exploring pricing trends and listing performance. A masterclass in self-service analytics.
+
+### 5. Data Professional Survey Dashboard 📊
+**Tools:** Power BI | DAX | Data Modeling | Survey Analysis
+
+What does the data profession actually look like from the inside? This Power BI dashboard analyzes real survey responses covering salary distribution, job satisfaction, and tech trends.
+- **Outcome:** Technical demonstration of Power BI's modelling capabilities using DAX measures and the Innovate professional theme.
+
+---
+
+## 🧹 Data Engineering & SQL
+### World Layoffs: Data Cleaning & EDA
+**Tools:** SQL | MySQL/PostgreSQL | Data Integrity
+
+A dual-project focus on preparing messy data for production.
+- **Part 1 (Cleaning):** Transformed raw layoff data by removing duplicates, standardizing entries, and handling null values to ensure 100% data integrity.
+- **Part 2 (EDA):** Performed exploratory analysis to identify industries and locations most affected by global layoffs using rolling sums and CTEs.
+
+---
+
+## 📫 Connect with me
+- **LinkedIn:** [Alam Ozuna](https://www.linkedin.com/in/alam-antonio-ozuna-silva-b4648029a/)
+- **Email:** [alam_ozuna@outlook.com](mailto:alam_ozuna@outlook.com)
+- **Portfolio Website:** [Visit my interactive web portfolio](https://github.com/alamozuna/Alam-Ozuna-s-Portfolio) (Update: Live link coming soon)
+
+---
+*© 2026 Alam Ozuna - The Quantified Lens*
