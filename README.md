@@ -43,6 +43,20 @@ A deep dive into the Airbnb rental market featuring 5 analytical worksheets feed
 What does the data profession actually look like from the inside? This Power BI dashboard analyzes real survey responses covering salary distribution, job satisfaction, and tech trends.
 - **Outcome:** Technical demonstration of Power BI's modelling capabilities using DAX measures and the Innovate professional theme.
 
+### 6. Financial Overview & P&L Dashboard 💵
+**Tools:** Power BI | DAX | Financial Modeling | Variance Analysis | Cashflow Tracking
+**File:** [Financial Dashboard - Portfolio.pdf](Financial%20Dashboard%20-%20Portfolio.pdf)
+
+A comprehensive financial intelligence dashboard featuring a P&L Summary, Budget vs. Actuals Variance Analysis, and Cashflow & Client Profitability metrics. It tracks $886K+ in revenue, $537K+ gross profit, and visualizes cash flow dynamics with inflow/outflow trends and client-level profitability tracking.
+- **Outcome:** Enabled deep-dive FP&A (Financial Planning & Analysis) capabilities, tracking a -69.85% variance ($2.05M) against a projected $2.94M 2026 budget, and identified top revenue-generating clients (e.g. Blueprint Interiors, Harmony Care) through interactive treemaps.
+
+### 7. Property Management Operational Report 🏠
+**Tools:** Power BI | Operational Analytics | Incident Response | Service Optimization
+**File:** [Operative Report for Property Manager.pdf](Operative%20Report%20for%20Property%20Manager.pdf)
+
+An operational intelligence dashboard designed for property managers to track support services and maintenance incidents across multiple properties in Madrid and Barcelona. It details total service volume (35 services), average incident resolution time (90 minutes), and distribution of requests by city, service type, and time slot.
+- **Outcome:** Highlighted key operational hotspots (e.g., Oficina Caterina House, Malasaña-Pabellon 1) and showed that 57% of service actions occurred in Barcelona, with check-ins and maintenance repairs being the primary drivers of evening-shift (18:00 - 00:00) activities.
+
 ---
 
 ## 🧹 Data Engineering & SQL
